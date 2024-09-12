@@ -2,7 +2,9 @@
 
 ```
 (base) montse@Fidels-Air ~ % pwd  
+
 /Users/montse  
+
 (base) montse@Fidels-Air ~ % cd OneDrive/Montse/Documents/REPOS  
 (base) montse@Fidels-Air REPOS % mkdir pruebas  
 (base) montse@Fidels-Air REPOS % cd pruebas  
